@@ -1,0 +1,16 @@
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+    .skill-percent-item{
+        font-size: 15px !important;
+    }
+    .skill-name-item{
+        font-size: 15px !important;
+    }
+    .skill-line{
+        height: 7px !important;
+    }
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+}

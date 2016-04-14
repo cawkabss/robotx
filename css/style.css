@@ -366,10 +366,12 @@ h3.skill{
     margin: 0;
     padding: 14px 0;
     font-size: 18px;
+    line-height: 1;
     font-weight: 700;
     color: #fff;
 }
 .skill-line{
+    padding: 0;
     height: 10px;
     margin: 18px 0;
 }
@@ -384,9 +386,10 @@ h3.skill{
     background-color: #f20101;
 }
 .skill-percent-item{
-    padding: 10px 0;
+    padding: 14px 0;
     margin: 0;
     font-size: 18px;
+    line-height: 1;
     font-weight: 700;
     color: #fff;
 }
@@ -566,18 +569,20 @@ h3.skill{
     margin-top: 60px;
 }
 .left-news-block{
-    padding-top: 40px;
+    padding: 40px 0 10px 0;
     background: rgba(1, 1, 1, 0.65);
 }
-.left-news-list{}
+.left-news-list{
+    padding: 0;
+}
 .left-news-title{
-    padding-bottom: 30px;
+    padding: 0 0 30px 10px;
     font-size: 24px;
     font-weight: 700;
     color: #fff;
 }
 .left-news-item{
-    margin: 20px 0;
+    padding: 10px 0;
 }
 .left-news-item-date{
     float: left;
