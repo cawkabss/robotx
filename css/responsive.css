@@ -11,6 +11,10 @@
     }
 }
 /* Wide Mobile Layout: 480px. */
-@media only screen and (min-width: 480px) and (max-width: 767px) {
-
+@media only screen and (min-width: 770px) and (max-width: 993px) {
+    .package-body > .package-button{
+        padding: 20px 30px;
+        font-size: 13px;
+    }
 }
+
